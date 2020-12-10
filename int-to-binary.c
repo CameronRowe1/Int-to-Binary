@@ -18,6 +18,8 @@ int main()
     printf("inter an int: ");
     scanf("%d", &input);
     printbits(input);
+	
+	printf("\ndone!\n");
 
     return 0;
 }
